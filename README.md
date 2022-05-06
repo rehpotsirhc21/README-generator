@@ -1,4 +1,5 @@
 # Automated README.md generator
+link to video: https://www.youtube.com/watch?v=bGe5u2T3y5U
   ## Table of Contents:
   1. [Description](#description) 
   2. [Instructions](#instructions)
